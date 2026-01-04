@@ -68,7 +68,7 @@ License
 This project is open-source and available for educational and personal use.
 
 Author
-[Your Name]
+[Jamal-Al-Hassan]
 
 Acknowledgments
 Digital logic design principles
